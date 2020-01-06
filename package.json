@@ -1,0 +1,22 @@
+{
+  "name": "cypress-getting-started",
+  "version": "1.0.0",
+  "description": "Learining Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristinamarkova/cypress-getting-started.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Kristina Markova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kristinamarkova/cypress-getting-started/issues"
+  },
+  "homepage": "https://github.com/kristinamarkova/cypress-getting-started#readme"
+}
